@@ -1,0 +1,13 @@
+name: Predict-word
+title: Predict-word
+username:
+account: desareca
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 713732
+bundleId: 1874447
+url: https://desareca.shinyapps.io/Predict-word/
+when: 1550080325.99352
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: prob_acum_ngramas.rds|ngram complete/gram1c.rds|ngram complete/gram2c.rds|ngram complete/gram3c.rds|ngram complete/gram4c.rds

@@ -1,0 +1,12 @@
+base
+knitr
+NLP
+tm
+ggplot2
+qdapDictionaries
+qdapRegex
+qdapTools
+RColorBrewer
+qdap
+tidyr
+hunspell

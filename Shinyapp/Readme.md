@@ -1,5 +1,4 @@
 # Data-Science-Capstone
-## Shinyapp
 
 Introduction
 ========================================================
